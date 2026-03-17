@@ -1,0 +1,16 @@
+# Datenbase
+config.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# JAR
+*.jar
+
+# Logs
+*.log
